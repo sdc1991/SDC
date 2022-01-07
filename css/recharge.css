@@ -1,0 +1,11 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+img {
+    border-radius: 50%;
+    width: 200px;
+    border-style: solid;
+}
